@@ -1,4 +1,4 @@
-# code-challenge-backend for Ivan
+# code-challenge-backend from Ivan
 
 graphQL simple Apollo server
 
