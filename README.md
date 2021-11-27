@@ -2,6 +2,6 @@
 
 graphQL simple Apollo server
 
-In this project directory run following cmd
+In this project directory, you can run:
 
-`yarn start`
+### `yarn start`
